@@ -4,7 +4,7 @@
     <variable name='sharedLocation' value='/opt/IBM/IMShared'/>
   </variables>
   <server>
-    <repository location='C:/Users/anmolsharma02/Downloads/Web..Portal/WPE_TRIAL_PART_1_V9.0.0_MP_ML/SETUP/products/WP90_Portal'/>
+    <repository location='/home/divyansh/websphere-binaries/SETUP/products/WP90_Portal'/>
   </server>
   <profile id='IBM WebSphere Portal Server V8.5' installLocation='/opt/IBM/WebSphere/PortalServer'>
     <data key='cic.selector.arch' value='x86_64'/>
